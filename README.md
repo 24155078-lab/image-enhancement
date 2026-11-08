@@ -13,7 +13,6 @@ A Python image-processing project that improves image visibility using two class
 ├── main.py
 ├── requirements.txt
 ├── .gitignore
-├── LICENSE
 └── README.md
 ```
 
