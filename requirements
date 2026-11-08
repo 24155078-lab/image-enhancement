@@ -1,0 +1,1 @@
+numpy>=1.23\nopencv-python>=4.8\nmatplotlib>=3.7\n
